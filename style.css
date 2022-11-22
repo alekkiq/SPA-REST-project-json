@@ -1,0 +1,30 @@
+main {
+    text-align: center;
+}
+#syotealue {
+    font-size: 20px;
+}
+button {
+    margin: 1rem 0;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 8px 8px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+table {
+    margin: auto;
+}
+#valikko {
+    display:flex;
+    flex-direction: column;
+}
+th {
+    padding: 15px;
+    font-size: 20px;
+}
+td  {
+    font-size: 17.5px;
+}
