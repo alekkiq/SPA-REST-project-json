@@ -2,7 +2,7 @@
     "port": 4000,
     "host": "localhost",
     "varastokirjastokansio": "varastokirjasto",
-    "varastokansio": "autotietovarasto",
+    "varastokansio": "tietovarasto",
     "kirjastokansio": "kirjasto",
     "resurssi": "autot"
 }
