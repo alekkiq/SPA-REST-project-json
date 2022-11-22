@@ -1,0 +1,37 @@
+[
+    {
+        "valmistusnro": 2,
+        "merkki": "Kilpuri",
+        "rekisteriNro": "ABC-987",
+        "huippunopeus": 130,
+        "vuosimalli": 1920
+    },
+    {
+        "valmistusnro": 4,
+        "merkki": "Biili",
+        "rekisteriNro": "ÖKY-1",
+        "huippunopeus": 350,
+        "vuosimalli": 2015
+    },
+    {
+        "valmistusnro": 5,
+        "merkki": "Kottero",
+        "rekisteriNro": "XYZ-1",
+        "huippunopeus": 50,
+        "vuosimalli": 2017
+    },
+    {
+        "valmistusnro": 3,
+        "merkki": "Kaara",
+        "rekisteriNro": "AAS-1",
+        "huippunopeus": 30,
+        "vuosimalli": 1995
+    },
+    {
+        "valmistusnro": 65,
+        "merkki": "Sa",
+        "rekisteriNro": "ABX",
+        "huippunopeus": 2234,
+        "vuosimalli": 20022
+    }
+]
